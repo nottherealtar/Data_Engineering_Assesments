@@ -1,0 +1,6 @@
+inverter_serial,temperature,humidity,wind_speed
+INV12345,15,30,5
+INV12346,16,35,6
+INV12347,14,40,4
+INV12348,17,45,7
+INV12349,18,50,8

@@ -1,0 +1,6 @@
+customer_id,email,system_sku,order_date
+C001,john.doe@example.com,SKU123,2023-01-01
+C002,,SKU124,2023-01-02
+C003,jane.smith@example.com,SKU125,2023-01-03
+C004,,SKU126,2023-01-04
+C005,mike.jones@example.com,SKU127,2023-01-05

@@ -1,0 +1,107 @@
+# Assessment 1: Data Cleaning and Transformation
+
+## Objective
+The goal of this assessment is to evaluate your ability to clean and transform raw data into a structured format suitable for analysis.
+
+## Instructions
+1. You will be provided with a raw dataset in CSV format.
+2. Identify and handle missing values.
+3. Normalize and standardize the data where necessary.
+4. Transform the data into a structured format (e.g., JSON, SQL).
+5. Document your process and any assumptions made.
+
+## Deliverables
+- Cleaned and transformed dataset.
+- A brief report explaining the steps taken and any challenges faced.
+
+---
+
+# Assessment 2: Data Analysis and Visualization
+
+## Objective
+This assessment aims to test your skills in analyzing data and presenting insights through visualizations.
+
+## Instructions
+1. You will be given a dataset with multiple variables.
+2. Perform exploratory data analysis (EDA) to understand the data.
+3. Generate meaningful visualizations to highlight key insights.
+4. Use statistical methods to support your findings.
+5. Summarize your analysis in a report.
+
+## Deliverables
+- EDA report with visualizations.
+- A summary of key insights and statistical findings.
+
+---
+
+# Assessment 3: Data Pipeline Development
+
+## Objective
+The purpose of this assessment is to assess your ability to design and implement a data pipeline.
+
+## Instructions
+1. Design a data pipeline to ingest, process, and store data from multiple sources.
+2. Implement the pipeline using a programming language of your choice (e.g., Python, Java).
+3. Ensure the pipeline handles errors and edge cases gracefully.
+4. Document the architecture and workflow of the pipeline.
+
+## Deliverables
+- Source code for the data pipeline.
+- Documentation explaining the pipeline design and implementation.
+- A brief report on how the pipeline handles errors and edge cases.
+---
+
+# Assessment 4: Solar Energy Data Integration
+
+## Objective
+This assessment evaluates your ability to integrate and manage data from various sources related to solar energy production.
+
+## Instructions
+1. You will be provided with datasets from different sources (e.g., weather data, solar panel output, energy consumption).
+2. Integrate these datasets into a single cohesive dataset.
+3. Ensure data consistency and handle any discrepancies.
+4. Create a data model to store the integrated data.
+5. Document your integration process and any challenges encountered.
+
+## Deliverables
+- Integrated dataset.
+- Data model schema.
+- A brief report explaining the integration process and challenges faced.
+
+---
+
+# Assessment 5: Solar Energy Forecasting
+
+## Objective
+The goal of this assessment is to test your ability to forecast solar energy production based on historical data.
+
+## Instructions
+1. You will be given historical data on solar energy production and weather conditions.
+2. Analyze the historical data to identify patterns and trends.
+3. Develop a forecasting model to predict future solar energy production.
+4. Validate the model's accuracy using appropriate metrics.
+5. Document your methodology and findings.
+
+## Deliverables
+- Forecasting model code.
+- Validation report with accuracy metrics.
+- A summary of your methodology and key findings.
+
+---
+
+# Assessment 6: Solar Panel Efficiency Analysis
+
+## Objective
+This assessment aims to evaluate your skills in analyzing the efficiency of solar panels based on various factors.
+
+## Instructions
+1. You will be provided with data on solar panel performance under different conditions (e.g., temperature, angle, shading).
+2. Perform a detailed analysis to determine the factors affecting solar panel efficiency.
+3. Use statistical methods to quantify the impact of each factor.
+4. Generate visualizations to support your analysis.
+5. Summarize your findings in a report.
+
+## Deliverables
+- Analysis report with visualizations.
+- Statistical findings on factors affecting efficiency.
+- A summary of key insights and recommendations.
