@@ -22,15 +22,16 @@ print(customer_details.head())
 
 #5 Integrate the datasets
 #5.1 Merge customer_orders and customer_details on 'customer_id' and 'email'
+integrated_data = pd.merge(customer_orders, customer_details, on=['customer_id', 'email'], how='left')
 
-
-#6 Display the first few rows of the integrated dataset
+# Display the first few rows of the integrated dataset
 print("\nIntegrated Data:")
 print(integrated_data.head())
 
 #7 Save the integrated dataset to a CSV file
 output_file = os.path.join(output_dir, 'integrated_customer_data.csv')
 #7.1
-
+integrated_data.to_csv(output_file, index=False)
 
 print(f"Integration complete. The integrated dataset is saved as '{output_file}'.")
+
